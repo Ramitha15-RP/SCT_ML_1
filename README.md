@@ -33,8 +33,8 @@ This project implements a linear regression model to predict house prices based 
 6. Results visualization
 
 ## 📈 Results
-- **R² Score**: [Add your R² score here]
-- **RMSE**: [Add your RMSE value here]
+- **R² Score**: 0.5476
+- **RMSE**: $57,243.20
 - **Key Insights**: Square footage showed the strongest correlation with house prices
 
 ## 🚀 How to Run
@@ -44,3 +44,11 @@ pip install -r requirements.txt
 
 # Run the model
 python house_price_prediction.py
+SCT_ML_1/
+├── README.md
+├── house_price_prediction.py
+├── house_price_linear_regression.ipynb
+├── requirements.txt
+└── results_summary.md
+Ramitha
+Machine Learning Intern - SkillCraft Technology
