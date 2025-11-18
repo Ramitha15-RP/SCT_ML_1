@@ -47,7 +47,7 @@ python house_price_prediction.py
 SCT_ML_1/
 ├── README.md
 ├── house_price_prediction.py
-├── house_price_linear_regression(1).ipynb
+├── house_price_linear_regression (1).ipynb
 ├── requirements.txt
 └── results_summary.md
 Ramitha
